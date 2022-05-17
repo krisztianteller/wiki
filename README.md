@@ -1,1 +1,1 @@
-# wiki
+This is a part of CS50's course.
